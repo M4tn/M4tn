@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-I'm a second-year IT student working towards becoming a Junior IT Systems Specialist. I'm interested in learning new programming languages. In my free time I either procrastinate, sleep, play video games or start working on something coding related. *Favourite Linux distro: Debian.*
+I'm a second-year IT student working towards becoming a Junior IT Systems Specialist. I'm interested in learning new programming languages. In my free time I either procrastinate, sleep, play video games or start working on something coding related. 
+
+*Favourite Linux distro: Debian.*
 
 ---
 
