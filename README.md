@@ -26,6 +26,6 @@ Tools I use.
 Stuff im learning.
 
 ### Stats
-[![M4tn's GitHub stats](https://github-readme-stats.vercel.app/api?username=M4tn&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![M4tn's GitHub stats](https://github-readme-stats.vercel.app/api?username=M4tn)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M4tn&layout=compact&theme=dark)
