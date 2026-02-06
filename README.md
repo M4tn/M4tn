@@ -6,7 +6,7 @@ Im a second year IT student, Future Junior IT Systems Specialist.
 Currently not working on any public projects.
 
 ### Languages
-[![Languages](https://skillicons.dev/icons?i=py,powerhsell&theme=dark)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=py,powershell&theme=dark)](https://skillicons.dev)
 
 Programming languages that I've used.
 
