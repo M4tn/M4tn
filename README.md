@@ -1,53 +1,31 @@
-## Hi there 👋
+### About me
 
-I'm a second-year IT student working towards becoming a Junior IT Systems Specialist. I'm interested in learning new programming languages. In my free time I either procrastinate, sleep, play video games or start working on something coding related. 
-
-*Favourite Linux distro: Debian.*
-
----
+Im a second year IT student, Future Junior IT Systems Specialist.
 
 ### Projects
-Currently haven't worked on any major projects but I plan to put any future ones here.
-
----
+Currently not working on any public projects.
 
 ### Languages
-[![Languages](https://skillicons.dev/icons?i=py&theme=dark)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=py,powerhsell&theme=dark)](https://skillicons.dev)
 
-These are the programming languages that I know and am comfortable using. Proficiency may vary.
-
----
+Programming languages that I've used.
 
 ### Operating Systems
 [![Operating Systems](https://skillicons.dev/icons?i=windows,linux,ubuntu,debian&theme=dark)](https://skillicons.dev)
 
-These are the Operating Systems that I have used and am comfortable using.
-
----
+OS that I can comfortably use.
 
 ### Tools
-[![Tools](https://skillicons.dev/icons?i=github,vscode,pycharm,discord,robloxstudio&theme=dark)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=github,vscode,pycharm&theme=dark)](https://skillicons.dev)
 
-These are the tools I've used in the past and still use today, *duh*.
-
----
+Tools I use.
 
 ### Learning
 [![Learning](https://skillicons.dev/icons?i=lua,docker,git,mysql&theme=dark)](https://skillicons.dev)
 
-These are the things that I'm either learning at school right now or want to learn in my free time.
-
----
+Stuff im learning.
 
 ### Stats
-[![M4tn's GitHub stats](https://github-readme-stats.vercel.app/api?username=M4tn&theme=dark)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![M4tn's GitHub stats](https://github-readme-stats.vercel.app/api?username=M4tn&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M4tn&layout=compact&theme=dark)
-
----
-
-### Contact
-**Discord:** eesti_
-
----
-
-> *"Documentation is key to success"*
